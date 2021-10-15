@@ -1,4 +1,4 @@
-# Predicting Risk/Return[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Predicting Risk/Return The Sharpe Ration[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 This project is a part of study program of DataCamp.
 
@@ -26,6 +26,10 @@ This repository consists of a practical study by Sharpe Ratio. It compares the e
 ## Project Description
 
 Enter William Sharpe. He introduced the [reward-to-variability](https://en.wikipedia.org/wiki/Sharpe_ratio#:~:text=In%20finance%2C%20the%20Sharpe%20ratio,after%20adjusting%20for%20its%20risk.&text=It%20was%20named%20after%20William,who%20developed%20it%20in%201966.) ratio in 1966 that soon came to be called the Sharpe Ratio. It compares the expected returns for two investment opportunities and calculates the additional return per unit of risk an investor could obtain by choosing one over the other. In particular, it looks at the difference in returns for two investments and compares the average difference to the standard deviation (as a measure of risk) of this difference. A higher Sharpe ratio means that the reward will be higher for a given amount of risk. It is common to compare a specific opportunity against a benchmark that represents an entire category of investments.
+Sharpe Ration Formula:
+
+![Sharpe Ration](./datasets/CodeCogsEqn.png)
+
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
